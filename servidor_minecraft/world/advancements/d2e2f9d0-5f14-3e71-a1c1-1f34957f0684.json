@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-03-09 04:57:49 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -131,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/acacia_storage_jar": {
     "criteria": {
       "has_glass": "2025-03-09 05:21:14 +0000"
@@ -143,9 +161,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 05:21:14 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/cobbled_deepslate_layer": {
+    "criteria": {
+      "has_block": "2025-03-09 05:52:42 +0000"
     },
     "done": true
   },
@@ -164,6 +200,12 @@
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
     },
     "done": true
   },
@@ -335,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
+    },
+    "done": true
+  },
   "bbb:recipes/oak_wall": {
     "criteria": {
       "has_logs": "2025-03-09 04:59:31 +0000"
@@ -380,6 +428,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_drawer": {
+    "criteria": {
+      "has_oak_drawer": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -437,9 +491,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-03-09 05:48:38 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -551,6 +617,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_shelf": {
+    "criteria": {
+      "has_oak_shelf": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-09 05:07:15 +0000"
@@ -620,6 +692,18 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-03-09 05:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -821,6 +905,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-09 05:07:15 +0000"
@@ -836,6 +926,12 @@
   "refurbished_furniture:recipes/misc/constructing/blue_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -869,6 +965,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
@@ -890,6 +992,12 @@
   "minecraft:recipes/building_blocks/magenta_terracotta": {
     "criteria": {
       "has_terracotta": "2025-03-09 05:01:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
     },
     "done": true
   },
@@ -980,6 +1088,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-03-09 04:58:23 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_seat": {
+    "criteria": {
+      "has_plank": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -1109,6 +1223,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_counter": {
+    "criteria": {
+      "has_oak_counter": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2025-03-09 05:17:43 +0000"
@@ -1211,6 +1331,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-03-09 05:57:04 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/brown_stool": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
@@ -1244,6 +1370,12 @@
   "refurbished_furniture:recipes/misc/constructing/light_fridge": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-09 05:53:48 +0000"
     },
     "done": true
   },
@@ -1283,9 +1415,21 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-03-09 05:53:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -1316,6 +1460,12 @@
   "securitycraft:recipes/building_blocks/reinforced_red_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 05:21:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-09 05:59:53 +0000"
     },
     "done": true
   },
@@ -1433,6 +1583,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/pink_sofa": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
@@ -1511,6 +1673,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_bench": {
+    "criteria": {
+      "has_oak_bench": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
@@ -1565,6 +1733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/birch_fancy_bed": {
     "criteria": {
       "has_birch_fancy_bed": "2025-03-09 04:57:53 +0000"
@@ -1574,6 +1748,12 @@
   "minecraft:recipes/building_blocks/prismarine_bricks": {
     "criteria": {
       "has_prismarine_shard": "2025-03-09 05:03:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
     },
     "done": true
   },
@@ -1649,9 +1829,21 @@
     },
     "done": true
   },
+  "bbb:recipes/oak_support": {
+    "criteria": {
+      "has_block": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_lamp": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_support": {
+    "criteria": {
+      "has_plank": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -1682,6 +1874,18 @@
   "securitycraft:recipes/building_blocks/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-03-09 05:21:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_couch": {
+    "criteria": {
+      "has_oak_couch": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -1721,6 +1925,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_chair": {
+    "criteria": {
+      "has_oak_chair": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
@@ -1742,6 +1952,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
     },
     "done": true
   },
@@ -1811,6 +2027,12 @@
     },
     "done": true
   },
+  "bbb:recipes/deepslate_column": {
+    "criteria": {
+      "has_block": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_lattice_fence": {
     "criteria": {
       "has_stick": "2025-03-09 04:57:49 +0000"
@@ -1847,6 +2069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-09 05:22:31 +0000"
@@ -1874,6 +2102,12 @@
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-03-09 05:03:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -1967,6 +2201,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_cupboard": {
+    "criteria": {
+      "has_oak_cupboard": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2025-03-09 05:22:31 +0000"
@@ -2021,6 +2261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/building_blocks/reinforced_yellow_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-03-09 05:21:14 +0000"
@@ -2030,6 +2276,12 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
     },
     "done": true
   },
@@ -2047,6 +2299,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-03-09 05:57:19 +0000",
       "bread": "2025-03-09 05:00:45 +0000"
     },
     "done": false
@@ -2189,6 +2442,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_nightstand": {
+    "criteria": {
+      "has_oak_nightstand": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/birch_window": {
     "criteria": {
       "has_ingredient": "2025-03-09 04:57:53 +0000"
@@ -2198,6 +2457,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_grill": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
     },
     "done": true
   },
@@ -2216,6 +2481,12 @@
   "refurbished_furniture:recipes/misc/constructing/crimson_lattice_fence": {
     "criteria": {
       "has_stick": "2025-03-09 04:57:49 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/oak_trim": {
+    "criteria": {
+      "has_block": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -2261,9 +2532,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/dark_oak_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -2300,6 +2583,12 @@
   "refurbished_furniture:recipes/misc/constructing/acacia_bath": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
     },
     "done": true
   },
@@ -2369,9 +2658,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-09 05:54:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-03-09 05:20:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_fancy_bed": {
+    "criteria": {
+      "has_oak_fancy_bed": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -2432,6 +2733,12 @@
   "refurbished_furniture:recipes/misc/constructing/dark_oak_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-03-09 05:59:53 +0000"
     },
     "done": true
   },
@@ -2531,6 +2838,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
@@ -2543,9 +2856,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_table": {
+    "criteria": {
+      "has_oak_table": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_glass": "2025-03-09 05:21:14 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_corner_trim": {
+    "criteria": {
+      "has_oak_corner_trim": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -2766,9 +3097,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
     },
     "done": true
   },
@@ -2832,9 +3175,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-03-09 05:54:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/briefcase": {
     "criteria": {
       "has_iron": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
     },
     "done": true
   },
@@ -2892,6 +3247,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-03-09 05:54:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-03-09 05:28:40 +0000"
@@ -2916,9 +3277,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2025-03-09 05:20:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
     },
     "done": true
   },
@@ -2928,9 +3301,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_dining_bench": {
+    "criteria": {
+      "has_oak_dining_bench": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2025-03-09 05:28:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_desk": {
+    "criteria": {
+      "has_oak_desk": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -2976,6 +3367,12 @@
     },
     "done": true
   },
+  "bbb:recipes/oak_layer": {
+    "criteria": {
+      "has_block": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "sliceanddice:recipes/misc/slicer": {
     "criteria": {
       "has_tool": "2025-03-09 04:58:04 +0000"
@@ -2985,6 +3382,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_trampoline": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -3015,6 +3418,12 @@
   "create:recipes/building_blocks/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-03-09 05:28:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -3072,6 +3481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/iron_catwalk_railing_from_stonecutting": {
     "criteria": {
       "has_item": "2025-03-09 05:17:43 +0000"
@@ -3105,6 +3520,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -3313,6 +3734,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/oak_kitchen_sink": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_stool": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
@@ -3337,6 +3764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-09 05:21:14 +0000"
@@ -3352,6 +3785,12 @@
   "bbb:recipes/birch_beam": {
     "criteria": {
       "has_log": "2025-03-09 04:57:49 +0000"
+    },
+    "done": true
+  },
+  "mighty_mail:recipes/decorations/oak_mail_box": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -3469,6 +3908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-09 05:07:15 +0000"
@@ -3484,6 +3929,12 @@
   "refurbished_furniture:recipes/misc/constructing/lime_sofa": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
     },
     "done": true
   },
@@ -3511,6 +3962,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/mangrove_basin": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
@@ -3532,6 +3989,12 @@
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2025-03-09 05:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -3655,6 +4118,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-03-09 05:21:14 +0000"
@@ -3727,6 +4202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_cooler": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
@@ -3766,6 +4247,12 @@
   "createdeco:recipes/decorations/iron_hull": {
     "criteria": {
       "has_item": "2025-03-09 05:17:49 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/oak_pillar_trim": {
+    "criteria": {
+      "has_oak_pillar_trim": "2025-03-09 05:52:05 +0000"
     },
     "done": true
   },
@@ -3874,6 +4361,12 @@
   "refurbished_furniture:recipes/misc/constructing/black_sofa": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
     },
     "done": true
   },
@@ -4033,9 +4526,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oak_side_table": {
+    "criteria": {
+      "has_oak_side_table": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/oak_window": {
+    "criteria": {
+      "has_ingredient": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/white_sofa": {
     "criteria": {
       "has_planks": "2025-03-09 04:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-03-09 05:53:48 +0000"
     },
     "done": true
   },
@@ -4049,6 +4560,12 @@
       "minecraft:plains": "2025-03-09 04:56:34 +0000"
     },
     "done": false
+  },
+  "refurbished_furniture:recipes/misc/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/building_blocks/reinforced_lime_stained_glass_pane_from_dye": {
     "criteria": {
@@ -4092,9 +4609,21 @@
     },
     "done": true
   },
+  "bbb:recipes/oak_ladder": {
+    "criteria": {
+      "has_planks": "2025-03-09 05:52:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
       "has_stick": "2025-03-09 04:57:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2025-03-09 05:52:42 +0000"
     },
     "done": true
   },
@@ -4179,6 +4708,12 @@
   "create:recipes/building_blocks/cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-03-09 05:07:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-03-09 05:59:49 +0000"
     },
     "done": true
   },
