@@ -2,9 +2,7 @@
 	id: "b1284f62-b0d3-39b6-90b3-a2438888ab09"
 	type: "player"
 	player_name: "Shinkar"
-	ranks: {
-		b1284f62-b0d3-39b6-90b3-a2438888ab09: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Shinkar"
 		"ftbteams:description": ""
